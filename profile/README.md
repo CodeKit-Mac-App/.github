@@ -1,7 +1,7 @@
 # CodeKit – Powerful Web Development Tool for Mac
 
 <div align="center">
-<img src="https://codekitapp.com/images/section-compile/02@2x.png" alt="CodeKit Logo" width="256" height="256">
+<img src="https://www.mrtechnique.com/wp-content/uploads/2020/04/codekit-logo.png" alt="CodeKit Logo" width="256" height="256">
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@ With support for a wide range of preprocessors and built-in tools for error chec
 
 The application is optimized for all Mac devices, including MacBook Air, MacBook Pro, and iMac, running macOS Monterey or later. Its user-friendly interface allows developers to focus on creativity and functionality instead of configuration and setup.
 
-![CodeKit Interface](https://www.mrtechnique.com/wp-content/uploads/2020/04/codekit-logo.png)
+![CodeKit Interface](https://codekitapp.com/images/section-compile/02@2x.png)
 
 ---
 
